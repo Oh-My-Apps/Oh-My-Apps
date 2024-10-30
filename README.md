@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi there 👋 I'm [GiGiDKR](https://github.com/GiGiDKR)
+
 
 - 🔭 I’m currently working on multiple automation applications for different systems
 - 🌱 I’m currently learning frontend and backend coding
